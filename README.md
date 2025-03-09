@@ -10,7 +10,7 @@
 * Плейлист по разбору алгоритмов машинного обучения: [Link](https://www.youtube.com/playlist?list=PLzwBbXU6LkXXVbJbMZHgu6JJ8LK5ETEeX)
 * Реализация алгоритмов машинного обучения с нуля: [Link](https://www.youtube.com/@mlpython1089/videos)
 * Несколько полезных видео по алгоритмам МО: [Link](https://www.youtube.com/@Машинноеобучениедлялюдей)
-* !Пивной чел: Плейлист по вероятности и статистике]: [Link(https://www.youtube.com/playlist?list=PLQJ7ptkRY-xbHLLI66KdscKp_FJt0FsIi)
+* !Пивной чел: Плейлист по вероятности и статистике: [Link](https://www.youtube.com/playlist?list=PLQJ7ptkRY-xbHLLI66KdscKp_FJt0FsIi)
 * !Пивной чел: Плейлист с полезными видео по Data Science: [Link](https://www.youtube.com/playlist?list=PLQJ7ptkRY-xZdChddctAEzJvXIUSplWi4)
 
 ## Books
