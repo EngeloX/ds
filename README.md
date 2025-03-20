@@ -21,8 +21,8 @@
 * Статистика для всех. Сара Бослаф [Link](https://viewer.rusneb.ru/ru/000199_000009_008642772?page=1&rotate=0&theme=white)
 
 ## Sources
-
-* ProfessorWeb SQL: [Link](https://professorweb.ru/my/sql-server/2012/level1/)
-* ProfessorWeb SQL-Оконные функции: [Link](https://professorweb.ru/my/sql-server/window-functions/level1/)
-
-* Регрессия: [Link](https://stepik.org/lesson/329366/step/14?unit=312669)
+* SQL:
+    * ProfessorWeb SQL: [Link](https://professorweb.ru/my/sql-server/2012/level1/)
+    * ProfessorWeb SQL-Оконные функции: [Link](https://professorweb.ru/my/sql-server/window-functions/level1/)
+* ML:
+    * Открытый курс машинного обучения Habr: [Link](https://habr.com/ru/companies/ods/articles/322626/)
