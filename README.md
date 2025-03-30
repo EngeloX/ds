@@ -23,6 +23,7 @@
 
 ## Sources
 * SQL:
+    * w3schools SQL: [Link](https://www.schoolsw3.com/sql/index.php)
     * ProfessorWeb SQL: [Link](https://professorweb.ru/my/sql-server/2012/level1/)
     * ProfessorWeb SQL-Оконные функции: [Link](https://professorweb.ru/my/sql-server/window-functions/level1/)
 * ML:
