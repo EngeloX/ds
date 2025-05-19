@@ -1,11 +1,6 @@
 .ipynb_checkpoints
 books pdf/.ipynb_checkpoints/
-HandBooks/.ipynb_checkpoints/
-MachineLearning/.ipynb_checkpoints/
-VideoContent/.ipynb_checkpoints/
-Handbooks/.ipynb_checkpoints/
 Notebooks/.ipynb_checkpoints/
-Notebooks/data/.ipynb_checkpoints/
-Notebooks/protos/
-Handbooks
+ML/protos/
 ML/.ipynb_checkpoints/
+ML/Clustering/.ipynb_checkpoints/
